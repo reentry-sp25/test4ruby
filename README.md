@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/e26046d5df86c605f00b/maintainability)](https://codeclimate.com/repos/67ad4d203b691373bba33dd4/maintainability)
